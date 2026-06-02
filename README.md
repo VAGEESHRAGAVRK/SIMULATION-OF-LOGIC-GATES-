@@ -154,3 +154,16 @@ The simulation waveform verifies the outputs of AND, OR, NOT, NAND, NOR, XOR, XN
 Thus, the simulation and implementation of Logic Gates and Boolean Functions using VHDL were successfully verified through simulation. Based on the lab manual format for Experiment 2. 
 
 If you are preparing all 8 experiments for GitHub, I can also convert the remaining experiments from your lab manual into the same README format.
+
+# Simulation and Implementation of Logic Gates and Boolean Functions
+
+### Submitted By
+**R.K. Vageesh Ragav**  
+B.E. Electronics and Communication Engineering (ECE)  
+Saveetha Engineering College, Chennai
+
+### Course
+EC1801 – Digital Logic Circuits Design Laboratory
+
+### Experiment No. 2
+Simulation and Implementation of Logic Gates and Boolean Functions using VHDL
